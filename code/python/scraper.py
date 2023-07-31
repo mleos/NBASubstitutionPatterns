@@ -148,7 +148,7 @@ def main():
 
 	today = datetime.now().date();
 	years = ["2023"];
-	teams = ["HOU","DAL"];
+	teams = [];
 	http = urllib3.PoolManager();
 
 	for year in years:

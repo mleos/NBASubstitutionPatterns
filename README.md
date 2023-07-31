@@ -1,4 +1,4 @@
-_Last Data Update: July 30, 2023_
+_Last Data Update: July 31, 2023_
 
 # NBA Substitution Patterns
 
